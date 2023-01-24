@@ -1,4 +1,4 @@
-<h1> Hey, I'm Kenneth, an <a href="https://www.linkedin.com/in/kenneth-stewart-479ba6182/"> IT Professional>
+<h1> Hey, I'm Kenneth, an <a href="https://www.linkedin.com/in/kenneth-stewart-479ba6182/"> IT Professional </h1>
   
 
 Here are some ideas to get you started:
