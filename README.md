@@ -3,4 +3,4 @@
   <h2>  Information Technology Projects </h2>
 
   
-🌱 I’m currently learning MS 365 Fundementals, AWS, COMPTIA (A+, NETWORK+, SECURITY+), AZURE Fundementals
+🌱 I’m currently learning AWS CP, COMPTIA (A+, NETWORK+, SECURITY+), AZURE Fundementals
