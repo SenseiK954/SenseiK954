@@ -12,4 +12,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/(https://www.linkedin.com/in/kenneth-stewart-479ba6182/)
+  [linkedin]: https://www.linkedin.com/in/kenneth-stewart-479ba6182/
