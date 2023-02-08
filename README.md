@@ -5,7 +5,6 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/SenseiK954/osticketing-prereqs)
   
-  </b>
 
 <summary>
 
