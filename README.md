@@ -6,3 +6,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/SenseiK954/osticketing-prereqs)
 
 
+<summary>
+
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
+
+</summary>
