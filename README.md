@@ -7,7 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/SenseiK954/osticketing-postconfig)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/SenseiK954/osticket-lifecycle)
   
-
+- <b>Microsoft Azure VMs</b>
+  - [Installing and configuring Windows Active Directory](https://github.com/SenseiK954/)  
+  - [Installing and configuring Windows Active Directory](https://github.com/SenseiK954/)  
 <summary>
 
 
