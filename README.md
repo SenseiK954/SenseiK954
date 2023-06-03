@@ -1,13 +1,13 @@
 <h1> Hey, I'm Kenneth, an <a href="https://www.linkedin.com/in/kenneth-stewart-479ba6182/"> IT & Cybersecurity Professional </h1>
   
- ## 👨‍💻 General IT Support Projects:
+ ## 👨‍💻 General IT Support Projects/Labs:
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/SenseiK954/osticketing-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/SenseiK954/osticketing-postconfig)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/SenseiK954/osticket-lifecycle)
   
-- <b>Active Directory Domain Services</b>
+- <b>Active Directory (Windows Sever)</b>
   - [Installing and configuring Windows Active Directory](https://github.com/SenseiK954/)  
   - [Installing and configuring Windows Active Directory](https://github.com/SenseiK954/)  
   
