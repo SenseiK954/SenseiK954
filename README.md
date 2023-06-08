@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/SenseiK954/osticketing-postconfig)
   
 - <b>Active Directory (Windows Sever)</b>
-  - [Installing and configuring Windows Active Directory](https://github.com/SenseiK954/)  
+  - [Installing and configuring Windows Active Directory](https://github.com/SenseiK954/ADconfig)  
   - [Installing and configuring Windows Active Directory](https://github.com/SenseiK954/)  
   
  ## 🛡️Cybersecurity Projects:
