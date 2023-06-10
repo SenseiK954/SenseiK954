@@ -3,6 +3,9 @@
  ## 👨‍💻 General IT Support Projects/Labs:  
 - <b>Microsoft Azure</b>
   - [Installing and configuring Windows Active Directory with Azure Virtual Machines](https://github.com/SenseiK954/ADconfig)  
+  - [Installing and configuring Windows Active Directory with Azure Virtual Machines](https://github.com/SenseiK954/ADconfig)  
+  - [Installing and configuring Windows Active Directory with Azure Virtual Machines](https://github.com/SenseiK954/ADconfig)  
+  - [Installing and configuring Windows Active Directory with Azure Virtual Machines](https://github.com/SenseiK954/ADconfig)  
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/SenseiK954/osticketing-prereqs)
