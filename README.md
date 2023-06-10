@@ -6,8 +6,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/SenseiK954/osticketing-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/SenseiK954/osticketing-postconfig)
   
-- <b>Active Directory (Windows Sever)</b>
-  - [Installing and configuring Windows Active Directory](https://github.com/SenseiK954/ADconfig)  
+- <b>Microsoft Azure</b>
+  - [Installing and configuring Windows Active Directory with Azure Virtual Machines](https://github.com/SenseiK954/ADconfig)  
   
  ## 🛡️Cybersecurity Projects:
 
